@@ -1,0 +1,25 @@
+{
+  "name": "tisikkirlir.js",
+  "version": "1.0.0",
+  "description": "Node.js port of @aksn's tisikkirlir gem",
+  "author": "Gökay Gürcan <gokaygurcan@gmail.com> (http://www.gokaygurcan.com)",
+  "contributors": [],
+  "main": "tisikkirlir.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gokaygurcan/tisikkirlir.js"
+  },
+  "bugs": {
+    "url": "https://github.com/gokaygurcan/tisikkirlir.js/issues"
+  },
+  "homepage": "https://github.com/gokaygurcan/tisikkirlir.js",
+  "keywords": [
+    "node",
+    "string",
+    "prototype"
+  ],
+  "license": "MIT"
+}
