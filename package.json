@@ -6,7 +6,7 @@
   "contributors": [],
   "main": "tisikkirlir.js",
   "scripts": {
-    "test": "node node_modules\\mocha\\bin\\mocha test.js --reporter spec"
+    "test": "node ./node_modules/mocha/bin/mocha ./test.js --reporter spec"
   },
   "repository": {
     "type": "git",
