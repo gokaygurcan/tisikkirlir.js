@@ -1,8 +1,11 @@
 # tisikkirlir.js
-Node.js port of @askn's tisikkirlir gem
+Node.js port of [askn](https://github.com/askn)'s tisikkirlir gem
 
-![npm version](https://img.shields.io/npm/v/tisikkirlir.js.svg?style=flat)
-![npm downloads](https://img.shields.io/npm/dm/tisikkirlir.js.svg?style=flat)
+![npm version](https://img.shields.io/npm/v/tisikkirlir.js.svg?style=flat-square)
+![npm downloads](https://img.shields.io/npm/dm/tisikkirlir.js.svg?style=flat-square)
+![travis ci](https://img.shields.io/travis/gokaygurcan/tisikkirlir.js.svg?style=flat-square)
+![npm devDependencies](https://img.shields.io/david/dev/gokaygurcan/tisikkirlir.js.svg?style=flat-square)
+![npm license](https://img.shields.io/npm/l/tisikkirlir.js.svg?style=flat-square)
 
 ![Khalessi](https://dl.dropbox.com/s/x2otko6ropilnb0/Birikindi-sizin-i%C3%A7in-sivisiyim-kilisi.jpg)
 
