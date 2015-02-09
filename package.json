@@ -1,6 +1,6 @@
 {
   "name": "tisikkirlir.js",
-  "version": "1.2.0",
+  "version": "1.1.0",
   "description": "Node.js port of @askn's tisikkirlir gem",
   "author": "Gökay Gürcan <gokaygurcan@gmail.com> (http://www.gokaygurcan.com)",
   "contributors": [],
