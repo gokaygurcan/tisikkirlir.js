@@ -1,5 +1,5 @@
 # tisikkirlir.js
-Node.js port of @aksn's tisikkirlir gem
+Node.js port of @askn's tisikkirlir gem
 
 ![npm version](https://img.shields.io/npm/v/tisikkirlir.js.svg?style=flat)
 ![npm downloads](https://img.shields.io/npm/dm/tisikkirlir.js.svg?style=flat)
