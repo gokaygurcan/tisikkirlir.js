@@ -1,4 +1,4 @@
-// tisikkirlir.js - v1.1.0
+// tisikkirlir.js - v1.1.1
 
 var tisikkirlir = require('./tisikkirlir');
 var is = require('is_js');
