@@ -1,6 +1,7 @@
 # tisikkirlir.js
 Node.js port of [askn](https://github.com/askn)'s tisikkirlir gem
 
+![analytics](https://analytics.gokaygurcan.com/UA-53543274-4/gokaygurcan/tisikkirlir.js.svg?style=flat-square)
 ![npm version](https://img.shields.io/npm/v/tisikkirlir.js.svg?style=flat-square)
 ![npm downloads](https://img.shields.io/npm/dm/tisikkirlir.js.svg?style=flat-square)
 ![travis ci](https://img.shields.io/travis/gokaygurcan/tisikkirlir.js.svg?style=flat-square)
@@ -29,3 +30,6 @@ console.log(result); // Birikin di sizin için sivişiyim Khiliisi
 
 ## Contributing
 Add or update whatever you want and create a pull request.
+
+## License
+MIT © [Gökay Gürcan](https://www.gokaygurcan.com)
